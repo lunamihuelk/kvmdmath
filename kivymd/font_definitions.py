@@ -43,6 +43,10 @@ fonts = [
         "name": "Icons",
         "fn_regular": fonts_path + "materialdesignicons-webfont.ttf",
     },
+    {
+        "name": "AsanaM",
+        "fn_regular": fonts_path + "asana-math.ttf",
+    },
 ]
 
 for font in fonts:
